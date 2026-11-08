@@ -20,7 +20,7 @@ Sou **Vinicius Nobrega Costa**, consultor em segurança da informação e govern
 
 | # | Projeto | Tema | Tecnologias | Status |
 |---|---------|------|-------------|--------|
-| 01 | [Análise de Dados e Storytelling](./01-analise-de-dados-e-storytelling) | [Resumo em uma frase] | Python, Pandas, Matplotlib | ✅ Concluído |
+| 01 | [Incidência da Dengue](./01-analise-de-dados-e-storytelling) | Análise de Dados e Storytelling | Python | ✅ Concluído |
 | 02 | _Em breve_ | | | 🔜 |
 
 ## 🗂️ Estrutura
