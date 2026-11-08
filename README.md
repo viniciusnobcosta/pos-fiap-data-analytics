@@ -31,7 +31,7 @@ pos-fiap-data-analytics/
 ├── 01-analise-de-dados-e-storytelling/
 │   ├── README.md
 │   ├── Analise_de_Dados_e_Storytelling_Fase1.ipynb
-│   └── documentacao.pdf
+│   └── Relatório de Diagnóstico e Conclusões.pdf
 └── 02-proximo-projeto/
 ```
 
