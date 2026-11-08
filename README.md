@@ -14,14 +14,7 @@
 
 Sou **Vinicius Nobrega Costa**, consultor em segurança da informação e governança corporativa e analista de dados/BI. Este repositório reúne os exercícios e projetos da pós, cada um documentado do problema à conclusão.
 
-<p>
-  <a href="https://www.linkedin.com/in/viniciusncosta">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-viniciuscosta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+🔗 [LinkedIn](https://www.linkedin.com/in/viniciusncosta) · [Portfólio](https://portfolio-viniciuscosta.vercel.app/)
 
 ## 📂 Projetos
 
