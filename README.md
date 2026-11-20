@@ -37,7 +37,8 @@ pos-fiap-data-analytics/
 │   ├── Analise_de_Dados_e_Storytelling_Fase1.ipynb
 │   └── Relatório de Diagnóstico e Conclusões.pdf
 └── 02_identificando_outliers_e_distribuições/
-    └── Arquivos do projeto
+    └── Desafio_Startup.ipynb
+    └── Analise_Startup_Problemas_Criticos_FIAP.pptx
 ```
 
 ---
