@@ -11,18 +11,6 @@ Os Tech Challenges têm como objetivo aplicar os conhecimentos adquiridos ao lon
 Este repositório reúne os projetos desenvolvidos pelo Grupo 7 ao longo dos Tech Challenges da pós-graduação.
 
 Cada projeto possui uma pasta específica, contendo seus respectivos códigos, notebooks, documentação, bases de dados (quando permitido) e demais materiais necessários para apresentar o desenvolvimento e os resultados das análises.
-
-Os projetos são desenvolvidos com foco em:
-
-- Análise e exploração de dados;
-- Tratamento e preparação de dados;
-- Estatística aplicada;
-- Modelagem e análise de dados;
-- Visualização de dados e Business Intelligence;
-- Identificação de padrões e geração de insights;
-- Storytelling e comunicação de resultados;
-- Apoio à tomada de decisão baseada em dados.
-
 ---
 
 ## Projetos
