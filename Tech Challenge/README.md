@@ -46,7 +46,6 @@ Entre as principais ferramentas e tecnologias utilizadas estão:
 - **Matplotlib e Seaborn:** visualização de dados;
 - **SQL:** consultas e manipulação de bancos de dados;
 - **Power BI:** construção de dashboards e relatórios analíticos;
-- **Jupyter Notebook:** desenvolvimento de análises interativas;
 - **Git e GitHub:** versionamento e colaboração.
 
 ---
